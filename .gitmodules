@@ -1,0 +1,8 @@
+[submodule "GTE-Backend"]
+	path = GTE-Backend
+	url = ../GTE-Backend.git
+	branch = sequential
+[submodule "GTE-ng"]
+	path = GTE-ng
+	url = ../GTE-ng.git
+	branch = sequential
