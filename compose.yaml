@@ -1,0 +1,20 @@
+version: '3.3'
+
+services:
+  gte-backend:
+    build: ./GTE-Backend
+    restart: unless-stopped
+    ports:
+      - 8000:8000
+    networks:
+      - default
+
+  gte-frontend:
+    build: ./GTE-ng
+    restart: unless-stopped
+    depends_on:
+      - gte-backend
+    ports:
+      - 4200:4200
+    networks:
+      - default
