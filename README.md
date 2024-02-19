@@ -1,13 +1,16 @@
 Game Theory Explorer with Sequential Equilibrium Solver
 =======================================================
 
-This is a helper repository for running the Game Theory Explorer with a sequential equilibrium solver in a dockerized environment.
-
 Our sequential equilibrium solver is described in detail here:
 
-Moritz Graf, Thorsten Engesser, and Bernhard Nebel.
-Symbolic Computation of Sequential Equilibria.
-Proceedings of AAMAS 2024, to appear.
+Moritz Graf, Thorsten Engesser, and Bernhard Nebel.  
+Symbolic Computation of Sequential Equilibria.  
+Proceedings of AAMAS 2024, to appear.  
+<https://arxiv.org/abs/2402.04452>
+
+See also our AAMAS 2024 demonstration video:
+
+[![Demonstration Video](https://img.youtube.com/vi/zZtY7gbLKUo/0.jpg)](https://www.youtube.com/watch?v=zZtY7gbLKUo)
 
 
 Prerequisites
