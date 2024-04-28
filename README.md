@@ -18,7 +18,7 @@ Prerequisites
 
 Make sure that [Git](https://git-scm.com/), [Docker Engine](https://docs.docker.com/engine/install/), and [Docker Compose](https://docs.docker.com/compose/install/) are installed on your system.
 
-The sequential equilibrium solver requires a free license for the Wolfram Engine, which can be obtained from <https://wolfram.com/engine/free-license/>.
+The sequential equilibrium solver requires a Wolfram Engine license (see <https://www.wolfram.com/engine/>). For testing and development, a free license can be obtained from <https://wolfram.com/engine/free-license/>.
 
 
 Installation
